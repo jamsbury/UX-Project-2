@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "40118AC4-E668-4537-AE5D-C35097AE6DF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3B72963D-B320-4CA9-818C-16CA829F83EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "453B412E-8875-4955-9BC2-8DD30A820361",
+    "height": 92,
+    "width": 357,
+    "x": 9,
+    "y": 86
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0E2A8EE4-4605-4403-A751-7B6CC4E5D2E2"
+    },
+    {
+      "class": "text",
+      "id": "CD60BF2E-96AC-4ED5-A955-897CF71309C4"
+    }
+  ],
+  "name": "Introduction",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F55334D6-5643-4635-8E54-F356E8180862",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
