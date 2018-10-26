@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CE04CF56-6923-4881-B6CB-7E3A09C3DD6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E34E76F4-02A8-48A4-A52B-E40ED7A5AD5D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B712D79-EAAC-48A9-A29C-6BE21694DCCF",
+    "height": 75,
+    "width": 998,
+    "x": 14,
+    "y": 16
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B54F069B-F9CE-4E0B-B63D-D2ECAF0D276A"
+    },
+    {
+      "class": "text",
+      "id": "AEF79C2B-9C77-4194-96A1-E49834040155"
+    }
+  ],
+  "name": "Nav Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BDA6D015-55D7-499A-8AD7-90B9006CE872",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
