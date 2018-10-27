@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4DA2A51E-3E4F-4A37-A88A-DAB5AD1D0558",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13F64815-E6EB-4558-AC1E-6A5DEB2013D8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FDE21C45-1D49-4D56-965D-76A8345AF2CF",
+    "height": 159,
+    "width": 796,
+    "x": 115,
+    "y": 2221
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5DBFA1C3-38CF-4F55-A33B-A9B4E40DDF30"
+    },
+    {
+      "class": "text",
+      "id": "69236B47-D7E4-4742-9A41-6C0DB65DA0FA"
+    },
+    {
+      "class": "rectangle",
+      "id": "8699A21E-D10A-4723-A857-0E0B05A29A2D"
+    },
+    {
+      "class": "shapePath",
+      "id": "80E892AF-26AA-4BD3-8676-FA4A570A224D"
+    }
+  ],
+  "name": "organism / course info block copy 12",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8E1A212-DB57-4678-9D46-6D6519CF2B91",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
