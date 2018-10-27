@@ -1,10 +1,11 @@
 {
-  "_class": "symbolInstance",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "BC95C077-0F97-4EC6-997A-A8D3479D60F7",
+  "do_objectID": "0B88A5BD-E61D-4192-8A51-388C10F1B149",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "B51437DE-D103-4067-8E17-9D5050C534C8",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,35 +16,46 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1240,
+    "do_objectID": "884398CC-5F3C-4100-A994-88662C7AADE0",
+    "height": 159,
     "width": 375,
     "x": 0,
-    "y": 2778
+    "y": 1434
   },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "organism / footer mobile",
-  "nameIsFixed": false,
-  "overrideValues": [
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8449846F-ACF6-48BD-A203-6D73DCA3FD15"
+    },
+    {
+      "class": "text",
+      "id": "3712C194-186A-44BF-92B5-4B7810EB0DF5"
+    },
+    {
+      "class": "rectangle",
+      "id": "89367E00-B838-41E7-9344-6F2FAB90731F"
+    }
   ],
+  "name": "organism / course info block copy 10",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D48D7BB0-7AA4-4F1D-97BA-7FAF5A47A471",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "745033D7-DEFC-43E9-BE7F-AC6C9DA86A8B",
-  "verticalSpacing": 0
+  }
 }

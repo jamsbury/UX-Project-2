@@ -22,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4309,
+    "height": 4019,
     "width": 375,
     "x": -188,
     "y": -2801
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,8 +53,99 @@
     {
       "class": "symbolInstance",
       "id": "BC95C077-0F97-4EC6-997A-A8D3479D60F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "531D4347-C4BE-4567-AA55-FF23E95A94BC"
+    },
+    {
+      "class": "rectangle",
+      "id": "E119AF9A-2678-472B-B49C-72545722D48C"
+    },
+    {
+      "class": "text",
+      "id": "188B5C02-5F15-4506-8875-B4CAAB7DB16D"
+    },
+    {
+      "class": "rectangle",
+      "id": "53B400AC-D1A1-4E0E-8C15-70AF73B84353"
+    },
+    {
+      "class": "text",
+      "id": "4F32F643-824B-43A1-8BBE-C0F7D8F4BA82"
+    },
+    {
+      "class": "group",
+      "id": "4E1A350F-66C5-40C9-9214-6896DE6109D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27472E2D-65D9-4C68-B761-B7D76E33FF8B"
+    },
+    {
+      "class": "group",
+      "id": "0B88A5BD-E61D-4192-8A51-388C10F1B149"
+    },
+    {
+      "class": "group",
+      "id": "CFC1DFF5-F115-4293-AC8A-C8EEA2924605"
+    },
+    {
+      "class": "shapePath",
+      "id": "A6DD8B1A-D405-4701-9DCE-E49FC8D9BE1A"
+    },
+    {
+      "class": "group",
+      "id": "3EB51B49-92CA-49F4-9BC7-14E350F568BF"
+    },
+    {
+      "class": "shapePath",
+      "id": "6E2765A5-F38E-42BF-8D07-812DD37A3A39"
+    },
+    {
+      "class": "shapePath",
+      "id": "22C72DE7-A708-4FC5-8185-085A1D8E2F06"
+    },
+    {
+      "class": "shapePath",
+      "id": "E98B7BF8-55B9-4851-B0A3-D274F64C9FAB"
+    },
+    {
+      "class": "rectangle",
+      "id": "6549C0C7-C5A4-4777-A43F-D997FE1603D1"
+    },
+    {
+      "class": "text",
+      "id": "88A98EC2-68D7-48AB-8C0B-A86D900E116A"
+    },
+    {
+      "class": "rectangle",
+      "id": "C113C970-7F9B-4C3C-A750-E5240A423762"
+    },
+    {
+      "class": "text",
+      "id": "AA399135-5D50-44AF-B08B-0A25F66C9D86"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07B1D5FC-2285-44D8-B736-9E194CFD82D7"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 26.25,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
   "name": "HOMEPAGE",
   "nameIsFixed": true,
   "presetDictionary": {
