@@ -16,14 +16,15 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Bold",
-              "size": 18
+              "name": "Helvetica-Oblique",
+              "size": 24
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2
-          }
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 12,
         "location": 0
@@ -50,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5287C481-84B8-428F-BE49-B3F9EF0305D2",
-    "height": 22,
+    "height": 29,
     "width": 275,
     "x": 55,
-    "y": 2005
+    "y": 2363
   },
-  "glyphBounds": "{{79, 4}, {117, 15}}",
+  "glyphBounds": "{{67, 5}, {146, 19}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +70,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "4AE8BE71-3B45-4E11-89C7-09F7D1E049C0",
+  "sharedStyleID": "40B7DEF7-FF91-4BF6-A190-F5C733E1F20E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,7 +80,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "F4C9305C-1A6A-4F76-8CAC-F6669B8139A4",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,18 +91,41 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Bold",
-            "size": 18
+            "name": "Helvetica-Oblique",
+            "size": 24
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2
-        }
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "E07EE454-8862-47E8-A8C0-80B406CE405C",
+      "transition": 0
+    }
+  }
 }

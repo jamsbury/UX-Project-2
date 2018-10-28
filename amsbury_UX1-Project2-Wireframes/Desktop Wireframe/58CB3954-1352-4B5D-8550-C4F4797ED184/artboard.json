@@ -30,8 +30,8 @@
     "x": -4973,
     "y": -396
   },
-  "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -67,8 +67,28 @@
       "id": "AAED5F06-9660-47AF-A58A-7A7C39E4ACDC"
     },
     {
-      "class": "symbolInstance",
-      "id": "37E80676-EC09-4849-8EB6-926E3A3CCA37"
+      "class": "rectangle",
+      "id": "F009D691-DE7C-494C-B598-6FB9AF9D0FA7"
+    },
+    {
+      "class": "rectangle",
+      "id": "D075C225-9EAD-46EC-9FCC-37552D949FEF"
+    },
+    {
+      "class": "text",
+      "id": "8BFE5EF0-5100-449C-B056-D47CE15A0F93"
+    },
+    {
+      "class": "text",
+      "id": "12680FC3-7544-4DDB-8CCE-AD6F3464422A"
+    },
+    {
+      "class": "text",
+      "id": "BCFA8EA2-D7CD-44E4-9D23-344A814E9DED"
+    },
+    {
+      "class": "text",
+      "id": "FD6B33B3-A8B0-4EDC-8BAB-FF90CFA254CD"
     },
     {
       "class": "symbolInstance",
@@ -118,7 +138,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 61.66666666666666,
-    "do_objectID": "385731D4-E9CE-4A43-91FA-177D7B0C54D5",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,

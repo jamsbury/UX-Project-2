@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 76,
+        "length": 77,
         "location": 0
       }
     ],
-    "string": "Course Number, Course Title, Course Credits\n\nBrief one sentence description."
+    "string": "Course Number, Course Title, Course Credits\n+ Brief one sentence description."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 81,
     "y": 14
   },
-  "glyphBounds": "{{0, 5}, {484, 82}}",
+  "glyphBounds": "{{1, 5}, {483, 53}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
