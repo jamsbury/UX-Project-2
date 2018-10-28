@@ -28,7 +28,7 @@
     "y": -2801
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -113,10 +113,6 @@
     {
       "class": "shapePath",
       "id": "22C72DE7-A708-4FC5-8185-085A1D8E2F06"
-    },
-    {
-      "class": "shapePath",
-      "id": "E98B7BF8-55B9-4851-B0A3-D274F64C9FAB"
     },
     {
       "class": "rectangle",
