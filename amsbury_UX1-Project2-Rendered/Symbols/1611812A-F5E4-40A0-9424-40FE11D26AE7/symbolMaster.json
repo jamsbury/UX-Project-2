@@ -1,0 +1,106 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5BB096B5-A9F3-4B30-BD70-4C088896972D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 659,
+  "clippingMaskMode": 0,
+  "do_objectID": "1611812A-F5E4-40A0-9424-40FE11D26AE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D058EB5-69F1-418F-A9AA-B2BC0132B861",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D156C5DE-0C91-4E64-BCF6-B1CA39651F86",
+    "height": 92,
+    "width": 370,
+    "x": 1946,
+    "y": -197
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "09F4F29B-E399-4C10-BC77-E864EE804EBF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "316C194A-E83C-420D-AAAF-D8C61ACFA8EF"
+    },
+    {
+      "class": "text",
+      "id": "25DD1867-4B2D-4785-B51F-C9A3BD0931CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B96424CF-7604-4853-BB10-A9D98B76A7BE"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 25.83333333333333,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 370
+  },
+  "name": "molecule / project or designer page header mobile",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D078128C-270D-428F-9D8D-0FE8712238A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3E5DB19B-9B74-47CC-AAC8-D7ACB728B8E1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C6CE0D83-FF1E-412E-A434-00C7F74F8461",
+    "guides": [
+    ]
+  }
+}
