@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 4372,
+    "height": 4684,
     "width": 375,
     "x": -188,
     "y": -2801
@@ -103,12 +103,20 @@
       "id": "3EB51B49-92CA-49F4-9BC7-14E350F568BF"
     },
     {
+      "class": "group",
+      "id": "31AB5678-6C24-40B4-88AF-E10AF3B48A1F"
+    },
+    {
       "class": "shapePath",
       "id": "6E2765A5-F38E-42BF-8D07-812DD37A3A39"
     },
     {
       "class": "shapePath",
       "id": "9939CACA-D9F3-428F-AA88-A2E35D5D5D6B"
+    },
+    {
+      "class": "shapePath",
+      "id": "4CC5C6DA-EB8D-4F47-9608-48B7C9A1DA8D"
     },
     {
       "class": "shapePath",
@@ -143,10 +151,6 @@
       "id": "07B1D5FC-2285-44D8-B736-9E194CFD82D7"
     },
     {
-      "class": "rectangle",
-      "id": "20DF22E5-29FF-473C-A822-7D9EF0B04085"
-    },
-    {
       "class": "text",
       "id": "4AF08FFE-A25C-40A4-B221-A3832C42B6AA"
     }
@@ -161,7 +165,7 @@
     "gutterWidth": 5,
     "guttersOutside": true,
     "horizontalOffset": 0,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 375

@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B2BB0F13-0573-4468-9EB6-9CD012322509",
+  "do_objectID": "26E7DE01-9BDD-4F47-BEDC-EE98A394DACB",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "984FCE11-B8B9-4CB8-BF79-5F77C7C754D5",
+    "do_objectID": "A25B4B7F-227B-4668-80E0-05D02D22446A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,13 +18,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4B313D59-81C8-4731-AF99-401CEE3DC323",
-    "height": 52,
-    "width": 381,
-    "x": -3,
-    "y": 1384
+    "do_objectID": "680E14CC-9211-4DDF-99F3-5FF4AB6C8FE8",
+    "height": 596,
+    "width": 383,
+    "x": 0,
+    "y": 0
   },
-  "hasClippingMask": false,
+  "hasClippingMask": true,
   "hasConvertedToNewRoundCorners": true,
   "isClosed": true,
   "isFixedToViewport": false,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 2",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -90,17 +90,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
-        "thickness": 2
+        "thickness": 1
       }
     ],
-    "do_objectID": "C0CE99F7-E85D-4390-9206-013B6E45247F",
+    "do_objectID": "23405112-46A1-49AF-8A8D-CA254ACE717B",
     "endMarkerType": 0,
     "fills": [
       {
@@ -123,27 +123,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "userInfo": {
-    "com.invision.prototype": {
-      "backgroundOpacity": 0,
-      "closeOnClickOutside": 1,
-      "componentType": "SRLink",
-      "fixOverlayPosition": 1,
-      "gesture": 0,
-      "linkType": 0,
-      "maintainScrollPositionAfterGesture": 0,
-      "maintainScrollPositionAfterRedirect": 0,
-      "openURLInNewWindow": 0,
-      "overlayPosition": 0,
-      "overlayTransition": 0,
-      "redirectAfter": 0,
-      "reverseTransitionOnClose": 1,
-      "scrollToPosition": 0,
-      "smoothScrolling": 0,
-      "stayOnTargetScreen": 0,
-      "targetArtboardID": "8A3044BC-EAEF-4054-9CAF-30454DA18A10",
-      "transition": 0
-    }
   }
 }
