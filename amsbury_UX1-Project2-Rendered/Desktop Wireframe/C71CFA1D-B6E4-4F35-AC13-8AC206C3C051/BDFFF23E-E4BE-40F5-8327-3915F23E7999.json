@@ -16,20 +16,20 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Bold",
-              "size": 48
+              "name": "Perpetua-Bold",
+              "size": 63
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 2
           }
         },
-        "length": 57,
+        "length": 31,
         "location": 0
       }
     ],
-    "string": "Eastern Washington University\nVisual Communication Design"
+    "string": "EWU Visual Communication Design"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "06F326E9-1F61-47B1-A1E8-27F22D39B0E6",
-    "height": 130,
-    "width": 714,
+    "height": 76,
+    "width": 959,
     "x": 32,
-    "y": 364
+    "y": 614
   },
-  "glyphBounds": "{{1, 12}, {706, 104}}",
+  "glyphBounds": "{{7, 12}, {945, 60}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,12 +64,12 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Eastern Washington U",
+  "name": "EWU Visual Communica",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "F003C2B3-58DC-4BB3-A93B-BA0487832E76",
+  "sharedStyleID": "BA422B22-F9D4-41B9-A425-A73D2AEE9340",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -79,7 +79,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "7BD945D1-5A3F-45D2-B77C-4E9FF950964F",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,13 +90,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Bold",
-            "size": 48
+            "name": "Perpetua-Bold",
+            "size": 63
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 2
         }
       },
       "verticalAlignment": 0

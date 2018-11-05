@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Bold",
-              "size": 42
+              "name": "Perpetua-Bold",
+              "size": 32
             }
           },
           "paragraphStyle": {
@@ -55,7 +55,7 @@
     "x": 2,
     "y": 537
   },
-  "glyphBounds": "{{0, 9}, {160, 82}}",
+  "glyphBounds": "{{0, 5}, {110, 58}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -79,7 +79,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "1A4533A8-CA0B-4740-B862-D6A2483DBBED",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,8 +90,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Bold",
-            "size": 42
+            "name": "Perpetua-Bold",
+            "size": 32
           }
         },
         "paragraphStyle": {

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 639,
   "clippingMaskMode": 0,
   "do_objectID": "A557C830-C6C9-44E7-A634-4349D81B398C",
   "exportOptions": {
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 38,
-    "x": 3857,
-    "y": 0
+    "height": 50,
+    "width": 27,
+    "x": 3921,
+    "y": -515
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -46,15 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "B073D049-5B8C-4220-9178-44AC79AF7140"
-    },
-    {
-      "class": "text",
-      "id": "4A3017F7-EE04-4127-A5D7-70166951377D"
+      "class": "shapePath",
+      "id": "BF914323-BB94-44DF-99F6-169B55B95607"
     }
   ],
   "name": "atom / back button",

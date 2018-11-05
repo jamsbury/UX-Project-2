@@ -16,14 +16,15 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Bold",
-              "size": 18
+              "name": "Perpetua-Bold",
+              "size": 32
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 2
-          }
+          },
+          "textStyleVerticalAlignmentKey": 0
         },
         "length": 10,
         "location": 0
@@ -50,12 +51,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3B0E919C-A7B4-4498-BEF2-24AC2A6D4E06",
-    "height": 22,
-    "width": 205,
-    "x": 82,
-    "y": 10
+    "height": 36,
+    "width": 345,
+    "x": 14,
+    "y": 7
   },
-  "glyphBounds": "{{57, 5}, {91, 14}}",
+  "glyphBounds": "{{100, 5}, {145, 22}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,6 +70,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "40B7DEF7-FF91-4BF6-A190-F5C733E1F20E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -78,7 +80,6 @@
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "3FC06D51-593D-4F78-A01F-2202DB83FC1A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -90,14 +91,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Bold",
-            "size": 18
+            "name": "Perpetua-Bold",
+            "size": 32
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 2
-        }
+        },
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },
