@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "5A27D238-4157-467C-89D0-7983868CB357",
-    "height": 4556,
+    "height": 6605,
     "width": 1024,
-    "x": -6268,
-    "y": -396
+    "x": -6344,
+    "y": -542
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -60,15 +60,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "F9EC2C30-8044-409F-806C-6DA67FA8A244"
-    },
-    {
-      "class": "symbolInstance",
       "id": "471C3DC3-FA34-440C-B568-E401AC635B34"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AB994EF1-E252-4EAC-A430-135E69252575"
     },
     {
       "class": "group",
@@ -125,6 +117,14 @@
     {
       "class": "group",
       "id": "F8395F77-1839-429C-BA88-06398FC0A496"
+    },
+    {
+      "class": "text",
+      "id": "EF8C218E-8BD1-477E-9396-420BE77DA094"
+    },
+    {
+      "class": "text",
+      "id": "E258E45F-D179-41D5-82C3-5C1F8DE85FBA"
     }
   ],
   "layout": {

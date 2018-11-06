@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 759,
+  "changeIdentifier": 764,
   "clippingMaskMode": 0,
   "do_objectID": "0BD1987C-A71F-4538-936B-6DF078377943",
   "exportOptions": {
@@ -69,6 +69,21 @@
       "id": "1718C279-73A4-4486-97B6-9AB845AE0959"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": -295,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "organism / course info block mobile",
   "nameIsFixed": true,
   "resizesContent": false,

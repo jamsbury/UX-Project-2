@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 999,
+  "changeIdentifier": 1003,
   "clippingMaskMode": 0,
   "do_objectID": "E94F4AF2-B3C0-4603-99B6-AB258CFBC09B",
   "exportOptions": {
@@ -61,6 +61,21 @@
       "id": "83171A9D-B2FC-44DC-9D59-2C6C35B9FDF1"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": -453.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "atom / hamburger",
   "nameIsFixed": false,
   "resizesContent": false,

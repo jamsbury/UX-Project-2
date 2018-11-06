@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 70,
+  "changeIdentifier": 75,
   "clippingMaskMode": 0,
   "do_objectID": "6D3ACB0C-F366-441D-BAF8-B46DD0D5AFC8",
   "exportOptions": {
@@ -77,6 +77,21 @@
       "id": "BE90D6DC-4E85-4A8F-8534-232DD39A5469"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": -296.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "molecule / projecy display",
   "nameIsFixed": false,
   "resizesContent": false,

@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 532,
+    "height": 549,
     "width": 1294,
     "x": -146,
-    "y": 1180
+    "y": 1215
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
@@ -40,6 +40,22 @@
     {
       "class": "shapePath",
       "id": "1CB55E19-2E64-460B-AD8C-23ABDA73B21C"
+    },
+    {
+      "class": "shapePath",
+      "id": "9E102BC1-8DA4-481C-BAFD-C99967CE4B6E"
+    },
+    {
+      "class": "shapePath",
+      "id": "55D75926-2B8F-4900-8506-22DF45D4AC0E"
+    },
+    {
+      "class": "shapePath",
+      "id": "935C6C4A-DBC1-4A29-99ED-3DB8C25504FA"
+    },
+    {
+      "class": "shapePath",
+      "id": "6B32D4CC-EF44-4A0D-AE8E-915276B16AB2"
     }
   ],
   "name": "goop",

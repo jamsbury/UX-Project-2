@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 440,
-    "width": 792,
-    "x": 0,
-    "y": 0
+    "height": 373,
+    "width": 621,
+    "x": 42,
+    "y": 41
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "rectangle",
@@ -35,11 +35,11 @@
     },
     {
       "class": "bitmap",
-      "id": "4435F7FF-C7C0-4FD5-8CA6-A6E2578FC485"
+      "id": "8ED2DAF6-288B-499D-A2F7-4F3A005D85A7"
     }
   ],
-  "name": "Screen Shot 2018-11-05 at 1.59.12 PM",
-  "nameIsFixed": false,
+  "name": "image",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

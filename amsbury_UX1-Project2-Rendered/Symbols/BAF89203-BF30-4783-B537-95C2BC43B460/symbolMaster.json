@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 1778,
+  "changeIdentifier": 1782,
   "clippingMaskMode": 0,
   "do_objectID": "BAF89203-BF30-4783-B537-95C2BC43B460",
   "exportOptions": {
@@ -89,6 +89,21 @@
       "id": "01F9BF01-744E-436C-AF52-E83708ECD4C8"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": -292.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "organism / footer mobile",
   "nameIsFixed": true,
   "resizesContent": false,

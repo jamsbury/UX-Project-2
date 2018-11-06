@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 37,
+  "changeIdentifier": 42,
   "clippingMaskMode": 0,
   "do_objectID": "643B986F-61DA-44B6-9A45-1CB4FD7300F1",
   "exportOptions": {
@@ -65,6 +65,21 @@
       "id": "5848A1CC-A5CF-48C2-8B8A-406905903221"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": -296.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "molecule / project preview ",
   "nameIsFixed": false,
   "resizesContent": false,

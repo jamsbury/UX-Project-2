@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 639,
+  "changeIdentifier": 643,
   "clippingMaskMode": 0,
   "do_objectID": "A557C830-C6C9-44E7-A634-4349D81B398C",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": -515
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,6 +53,21 @@
       "id": "BF914323-BB94-44DF-99F6-169B55B95607"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": -466.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "atom / back button",
   "nameIsFixed": false,
   "resizesContent": false,
