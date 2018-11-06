@@ -17,12 +17,12 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Perpetua-Bold",
-              "size": 32
+              "size": 72
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 2
           }
         },
         "length": 17,
@@ -55,7 +55,7 @@
     "x": 3,
     "y": 537
   },
-  "glyphBounds": "{{1, 6}, {255, 30}}",
+  "glyphBounds": "{{28, 16}, {201, 209}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,15 +91,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Perpetua-Bold",
-            "size": 32
+            "size": 72
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 2
         }
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },

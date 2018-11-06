@@ -1,0 +1,119 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "88A33C93-AA1A-49FD-AF70-B1D8766D4400",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1292,
+  "clippingMaskMode": 0,
+  "do_objectID": "1B90B9D7-8ED3-4B40-A6DD-9F911B1F979A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0F20BED-3AF7-47E3-A670-059DAA50C9C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B7B2DE0D-458D-42E4-A4C7-607CBEA43D30",
+    "height": 443,
+    "width": 959,
+    "x": 2798,
+    "y": -121
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9A7E06AC-1821-4338-B619-7172B84C95FE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5DFE61D7-677F-4CF8-85BC-B7F95ACC1F1C"
+    },
+    {
+      "class": "group",
+      "id": "88902EFE-9DEF-4C15-AFC5-D5ACC253534B"
+    },
+    {
+      "class": "rectangle",
+      "id": "A0CD7EF8-D085-4D66-A759-E8DABF78E51F"
+    },
+    {
+      "class": "text",
+      "id": "0A318A68-B0B5-4E14-B34C-C332BAE3EDE3"
+    },
+    {
+      "class": "text",
+      "id": "C939DBFE-2232-4329-9B9E-E4B452417F5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7356DED9-2825-4BDD-9FB8-2490917A8636"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "DBF46461-E809-44AA-BFF5-5EB8EFCFE3EF",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": -0.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "organism / course info block expanded",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "921AF209-3D03-4639-96BC-B09230036248",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EFF7C278-3009-4AF9-AD51-CF3BAC4E8652",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A7C50B8A-E5EB-4514-8579-FBB4C74952EC",
+    "guides": [
+    ]
+  }
+}

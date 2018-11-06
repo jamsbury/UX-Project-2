@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1843B579-FB37-4D28-B8AA-140D4C13A2E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5AE97D78-E531-4965-B549-F89775B2C89D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "64834118-26F3-4783-B25F-7335E724A86D",
+    "height": 836,
+    "width": 1145,
+    "x": -74,
+    "y": 129
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "CC6505DC-C713-4157-899A-D032439C9A4D"
+    },
+    {
+      "class": "bitmap",
+      "id": "B55C4D98-EA48-493D-B3EE-65092CC07DA6"
+    }
+  ],
+  "name": "Banner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0BB96E84-1808-4A51-9398-B9E4D9A2ADC6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

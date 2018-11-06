@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 19,
+  "changeIdentifier": 4547,
   "clippingMaskMode": 0,
   "do_objectID": "3BD93208-5C6C-4BE4-B8AE-E47D129D2F45",
   "exportOptions": {
@@ -23,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 159,
+    "height": 121,
     "width": 959,
     "x": 2798,
-    "y": 0
+    "y": -272
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "rectangle",
@@ -57,12 +57,12 @@
       "id": "00D1F4C5-D960-420B-8565-B4111B548FB7"
     },
     {
-      "class": "rectangle",
-      "id": "B38448A6-F164-4272-93BC-A735EE38CE15"
+      "class": "symbolInstance",
+      "id": "A45EA16C-8E80-4615-AD4D-608D43265038"
     },
     {
-      "class": "shapePath",
-      "id": "1B306DC6-FA7C-4DB6-8605-E6C1B7765207"
+      "class": "group",
+      "id": "6609E26F-6247-4D39-95F8-CAE8E06254F0"
     }
   ],
   "layout": {

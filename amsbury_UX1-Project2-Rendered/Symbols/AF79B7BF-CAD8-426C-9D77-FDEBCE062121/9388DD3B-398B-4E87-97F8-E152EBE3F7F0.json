@@ -22,7 +22,7 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 1
         },
@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "Type something"
+    "string": "type something"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 148,
-    "width": 261,
-    "x": 703,
-    "y": 41
+    "height": 213,
+    "width": 220,
+    "x": 762,
+    "y": 93
   },
-  "glyphBounds": "{{24, 5}, {212, 31}}",
+  "glyphBounds": "{{0, 5}, {210, 31}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,11 +95,11 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 1
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 2
     },
     "windingRule": 1
   },
