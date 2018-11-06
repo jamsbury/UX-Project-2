@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "44DECF5A-F674-4687-9BA3-D9B330A18E47",
+  "do_objectID": "632B69DE-EFE0-4DF8-B3C5-1ABF703486A5",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "584D88A8-FFC2-4451-966F-8782A5A6E7A1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 836,
-    "width": 1145,
-    "x": -75,
-    "y": 129
+    "do_objectID": "9D2B7400-A199-48EF-93D3-B0E9A2781877",
+    "height": 123,
+    "width": 19,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -27,22 +29,26 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "DDF766D5-B86D-4CF5-A504-B1C9D59BF6EC"
+      "class": "rectangle",
+      "id": "C8248BD0-085B-4022-AC5F-18C7B39C1673"
     },
     {
-      "class": "bitmap",
-      "id": "DEBEAEAB-8556-4065-886D-8EA8F6DC88ED"
+      "class": "rectangle",
+      "id": "21E22EA1-551C-4D95-A43E-4B8D56BA7029"
     },
     {
-      "class": "shapePath",
-      "id": "07A2CC3D-C491-479A-A5CB-D3F315A75FA0"
+      "class": "rectangle",
+      "id": "A3344930-8B1E-4FD0-8344-C10ABD708977"
+    },
+    {
+      "class": "rectangle",
+      "id": "53CD8BC4-A446-40C9-96D5-D5EE805490F8"
     }
   ],
-  "name": "Banner",
+  "name": "blocks",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -50,6 +56,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "3022A9F4-76A8-4F15-B5BF-DA9E4D17FF29",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
