@@ -25,13 +25,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6C6B5EE3-26F5-4C30-BBA3-687024B715A7",
-    "height": 4229,
-    "width": 1024,
+    "height": 5388,
+    "width": 1440,
     "x": 243,
     "y": -375
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -128,7 +128,7 @@
     "gutterHeight": 12,
     "gutterWidth": 20,
     "guttersOutside": false,
-    "horizontalOffset": 32,
+    "horizontalOffset": 240,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
@@ -139,9 +139,9 @@
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
-    "name": "Desktop",
+    "name": "Desktop HD",
     "offersLandscapeVariant": 0,
-    "width": 1024
+    "width": 1440
   },
   "resizesContent": false,
   "resizingConstraint": 63,
