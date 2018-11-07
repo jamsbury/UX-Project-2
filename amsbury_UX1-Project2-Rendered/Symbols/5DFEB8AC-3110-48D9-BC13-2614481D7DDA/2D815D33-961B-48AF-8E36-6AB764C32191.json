@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 77,
+        "length": 37,
         "location": 0
       }
     ],
-    "string": "Course Number, Course Title, Course Credits\n+ Brief one sentence description."
+    "string": "Course, course number, course credits"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "constrainProportions": false,
     "do_objectID": "4E0412E4-0219-4A33-8A47-39A3524969E2",
     "height": 107,
-    "width": 700,
-    "x": 89,
+    "width": 343,
+    "x": 43,
     "y": 7
   },
-  "glyphBounds": "{{1, 5}, {599, 67}}",
+  "glyphBounds": "{{1, 5}, {318, 58}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Course Number, Cours",
+  "name": "Course, course numbe",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
