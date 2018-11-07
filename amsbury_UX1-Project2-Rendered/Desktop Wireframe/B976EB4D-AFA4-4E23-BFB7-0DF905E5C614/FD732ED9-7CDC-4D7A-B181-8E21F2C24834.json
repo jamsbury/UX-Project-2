@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica-Bold",
-              "size": 38
+              "name": "Perpetua-Bold",
+              "size": 72
             }
           },
           "paragraphStyle": {
@@ -50,12 +50,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EF1D6928-2B3F-45B6-851A-4EC1E5348820",
-    "height": 46,
-    "width": 187,
-    "x": 419,
-    "y": 2661
+    "height": 82,
+    "width": 797,
+    "x": 321,
+    "y": 4520
   },
-  "glyphBounds": "{{4, 9}, {180, 37}}",
+  "glyphBounds": "{{250, 13}, {297, 68}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "F003C2B3-58DC-4BB3-A93B-BA0487832E76",
+  "sharedStyleID": "BA422B22-F9D4-41B9-A425-A73D2AEE9340",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -90,8 +90,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica-Bold",
-            "size": 38
+            "name": "Perpetua-Bold",
+            "size": 72
           }
         },
         "paragraphStyle": {
@@ -99,7 +99,7 @@
           "alignment": 2
         }
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },
