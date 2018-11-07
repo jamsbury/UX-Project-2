@@ -31,7 +31,7 @@
     "y": 4073
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +48,7 @@
   "isFlowHome": true,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -222,7 +222,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 61.66666666666666,
-    "do_objectID": "C80D6BA8-474C-4563-A997-161077487E0B",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -235,7 +234,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "HOMEPAGE BA OPEN",
+  "name": "Home W/ BA Open",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

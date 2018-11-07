@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A2875C73-8E84-4BF0-B946-0BB1B55AC6BC",
-    "height": 2135,
-    "width": 1024,
+    "height": 2375,
+    "width": 1440,
     "x": -2337,
-    "y": -396
+    "y": -776
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -51,10 +51,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "41D9EB29-8E19-4433-8CE2-25E91D15EAFF"
-    },
-    {
       "class": "group",
       "id": "75289FA4-A749-495A-A95C-32D03205C372"
     },
@@ -65,10 +61,6 @@
     {
       "class": "group",
       "id": "78FECEE5-4572-4E80-81EA-B46CD7AD829D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "76264DC1-AC84-4A17-8967-FFA5D4178560"
     }
   ],
   "layout": {
@@ -80,7 +72,7 @@
     "gutterHeight": 12,
     "gutterWidth": 20,
     "guttersOutside": false,
-    "horizontalOffset": 32,
+    "horizontalOffset": 240,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
@@ -91,9 +83,9 @@
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
-    "name": "Desktop",
+    "name": "Desktop HD",
     "offersLandscapeVariant": 0,
-    "width": 1024
+    "width": 1440
   },
   "resizesContent": false,
   "resizingConstraint": 63,

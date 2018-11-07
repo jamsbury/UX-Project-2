@@ -25,13 +25,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "2EDCBB8F-91CF-4BB5-ADFD-F9F8AE4A8E64",
-    "height": 7035,
-    "width": 1024,
+    "height": 7047,
+    "width": 1440,
     "x": -4577,
-    "y": -1048
+    "y": -776
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,15 +48,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
       "id": "45538DA3-9F37-4FB6-BB04-A6607A583B42"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5BC2FCAE-FD29-464C-BC5E-FB5C197FD99E"
     },
     {
       "class": "text",
@@ -192,7 +188,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "84CCCD59-5ED7-42BD-83F7-1D6402495B08"
+      "id": "84AD4588-BF2E-4686-99ED-0B3324BF6167"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35B522FF-47CE-4B17-BD9F-465F1BA6B3E5"
     }
   ],
   "layout": {
@@ -204,7 +204,7 @@
     "gutterHeight": 12,
     "gutterWidth": 20,
     "guttersOutside": false,
-    "horizontalOffset": 32,
+    "horizontalOffset": 240,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
@@ -215,9 +215,9 @@
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,
-    "name": "Desktop",
+    "name": "Desktop HD",
     "offersLandscapeVariant": 0,
-    "width": 1024
+    "width": 1440
   },
   "resizesContent": false,
   "resizingConstraint": 63,
