@@ -9,37 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Perpetua-Bold",
-              "size": 32
+              "name": "FranklinGothic-Book",
+              "size": 18
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 39,
         "location": 0
       }
     ],
-    "string": "October 2018"
+    "string": "October 26:\nHocus Pocus & Pumpkin Party"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EA7A631C-FD3B-4B35-825C-AB09653CF78C",
+  "do_objectID": "A74D23EC-4B5F-45A5-89CB-DF08B1B4C460",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0127F896-8273-4809-85BE-6F1621C587EA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DE720439-3E4F-4C02-86D2-8C4A52071C08",
-    "height": 42,
-    "width": 408,
-    "x": 312,
-    "y": 1706
+    "height": 60,
+    "width": 286,
+    "x": 904,
+    "y": 1700
   },
-  "glyphBounds": "{{116, 5}, {176, 22}}",
+  "glyphBounds": "{{0, 3}, {229, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,16 +63,16 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "October 2018",
+  "name": "October 26: Hocus Po",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "40B7DEF7-FF91-4BF6-A190-F5C733E1F20E",
+  "sharedStyleID": "FD6A3FAA-2439-4FC0-A771-7FAC12599414",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "08A1E4FC-EC4C-46F3-9B7B-8C7C8514C80E",
+    "do_objectID": "118DBEDB-202F-491B-8E4F-8D747486A3B7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -84,20 +82,20 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Perpetua-Bold",
-            "size": 32
+            "name": "FranklinGothic-Book",
+            "size": 18
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },

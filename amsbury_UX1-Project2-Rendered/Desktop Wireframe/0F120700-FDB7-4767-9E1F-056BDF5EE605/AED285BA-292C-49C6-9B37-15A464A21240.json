@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "October 2018"
+    "string": "10"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EA7A631C-FD3B-4B35-825C-AB09653CF78C",
+  "do_objectID": "AED285BA-292C-49C6-9B37-15A464A21240",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0127F896-8273-4809-85BE-6F1621C587EA",
+    "do_objectID": "3BE59257-B1C3-48A1-87C9-9726031FF54B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DE720439-3E4F-4C02-86D2-8C4A52071C08",
-    "height": 42,
-    "width": 408,
-    "x": 312,
-    "y": 1706
+    "do_objectID": "366C95DE-193B-4365-9813-2F6B584BC70A",
+    "height": 36,
+    "width": 37,
+    "x": 497,
+    "y": 1872
   },
-  "glyphBounds": "{{116, 5}, {176, 22}}",
+  "glyphBounds": "{{6, 6}, {27, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,28 +65,29 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "October 2018",
+  "name": "10",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "40B7DEF7-FF91-4BF6-A190-F5C733E1F20E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "08A1E4FC-EC4C-46F3-9B7B-8C7C8514C80E",
+    "do_objectID": "0A997453-FCE5-4126-8226-9269FB189AED",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "049B687B-36B1-409D-91B2-5D0A94E0C8AF",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -105,5 +106,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }
