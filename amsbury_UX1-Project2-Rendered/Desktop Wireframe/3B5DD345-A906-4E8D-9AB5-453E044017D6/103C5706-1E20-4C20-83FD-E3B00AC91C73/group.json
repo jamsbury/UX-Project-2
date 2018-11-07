@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "103C5706-1E20-4C20-83FD-E3B00AC91C73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AECD7B83-429B-45EF-A5A3-93DE185FDCEA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B96A0D28-8CDC-4F21-8D41-459EF125830D",
+    "height": 524,
+    "width": 1945.121144112333,
+    "x": -273.269499561924,
+    "y": 1345.612198765221
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4AF231B3-BBD9-462F-91EE-F11DB64C1AB5"
+    },
+    {
+      "class": "shapePath",
+      "id": "7D53C09C-3FE8-4B60-8D95-85F0BDD4E80B"
+    },
+    {
+      "class": "shapePath",
+      "id": "ADA88E03-73BB-4906-8069-680A13C30A58"
+    },
+    {
+      "class": "shapePath",
+      "id": "C7E8805C-022C-4108-A3C3-F4EE82AC6ADD"
+    },
+    {
+      "class": "shapePath",
+      "id": "48629DD3-DFEF-4791-8504-69D8B025C939"
+    }
+  ],
+  "name": "goop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 10,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8554D6E2-4EB4-4398-BA6E-B0E29C07CE31",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

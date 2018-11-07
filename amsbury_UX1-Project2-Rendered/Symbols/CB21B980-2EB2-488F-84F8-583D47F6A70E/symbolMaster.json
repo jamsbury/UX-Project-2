@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 25819,
+  "changeIdentifier": 39193,
   "clippingMaskMode": 0,
   "do_objectID": "CB21B980-2EB2-488F-84F8-583D47F6A70E",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 338,
-    "width": 1024,
-    "x": 355,
-    "y": 335
+    "width": 1440,
+    "x": 759,
+    "y": -1073
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -63,6 +63,10 @@
     {
       "class": "text",
       "id": "24716C0D-D132-4DE1-A64D-4C0A565314CC"
+    },
+    {
+      "class": "rectangle",
+      "id": "554FFBBA-B806-4418-879B-5DCDF3B62F51"
     },
     {
       "class": "text",
@@ -174,7 +178,7 @@
     "gutterHeight": 12,
     "gutterWidth": 20,
     "guttersOutside": true,
-    "horizontalOffset": 32,
+    "horizontalOffset": 240,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,

@@ -17,20 +17,21 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "FranklinGothic-Book",
-              "size": 32
+              "size": 20
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "paragraphSpacing": 10
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 125,
+        "length": 63,
         "location": 0
       }
     ],
-    "string": "Take a look at the amazing design wizards who instruct our design students (and also make them cry- in a good way of course)."
+    "string": "B.F.A. Eastern Washington University\nLecturer\ntpoosri47@ewu.edu"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 213,
-    "width": 552,
-    "x": 440,
-    "y": 5587
+    "height": 221,
+    "width": 389,
+    "x": 729,
+    "y": 5796
   },
-  "glyphBounds": "{{0, 7}, {549, 136}}",
+  "glyphBounds": "{{-1, 4}, {308, 82}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Take a look at the a",
+  "name": "B.F.A. Eastern Washi",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -90,12 +91,13 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "FranklinGothic-Book",
-            "size": 32
+            "size": 20
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "paragraphSpacing": 10
         },
         "textStyleVerticalAlignmentKey": 0
       },

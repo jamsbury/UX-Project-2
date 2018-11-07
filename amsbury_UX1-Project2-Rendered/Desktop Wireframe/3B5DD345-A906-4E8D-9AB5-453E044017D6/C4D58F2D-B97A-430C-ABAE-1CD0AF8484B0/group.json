@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C4D58F2D-B97A-430C-ABAE-1CD0AF8484B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "83141E9B-0C84-4BBF-875A-8BF327917C6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E988CE9A-4AD1-4508-874E-10B397444875",
+    "height": 66,
+    "width": 470,
+    "x": 484,
+    "y": 4167
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2B8D6F60-EE23-4582-AB5D-7394A5CE2756"
+    },
+    {
+      "class": "text",
+      "id": "D54F70A9-F582-45B5-8001-1B78DD5182FA"
+    }
+  ],
+  "name": "course button copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "900346FF-4119-41A3-9824-5A49A40AD256",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

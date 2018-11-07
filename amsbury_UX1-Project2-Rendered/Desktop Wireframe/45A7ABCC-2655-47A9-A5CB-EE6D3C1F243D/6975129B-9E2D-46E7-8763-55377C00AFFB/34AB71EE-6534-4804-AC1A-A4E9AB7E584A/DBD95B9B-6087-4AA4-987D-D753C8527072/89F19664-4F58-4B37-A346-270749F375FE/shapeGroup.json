@@ -1,0 +1,88 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "89F19664-4F58-4B37-A346-270749F375FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B8611254-F8DD-4AF8-9875-0259F51FA4EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C617C75-3C40-4840-BFD9-8BDF1FACA2BC",
+    "height": 18,
+    "width": 18,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "CB31B047-DCAB-47A1-AB35-F69045392063"
+    },
+    {
+      "class": "shapePath",
+      "id": "2A177AC2-67F1-49EC-985B-5704565ABA0B"
+    },
+    {
+      "class": "shapePath",
+      "id": "DCE05C7A-158E-4415-9274-DD9E575426F7"
+    },
+    {
+      "class": "shapePath",
+      "id": "78A9B1A2-1C52-49C9-B5DD-F5DB8E41C0F6"
+    },
+    {
+      "class": "shapePath",
+      "id": "9C732442-FD09-4CC2-9588-D6D67FACD4A0"
+    }
+  ],
+  "name": "Fill 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7FEF79A6-6190-4E51-9378-7B9626D199FE",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}
