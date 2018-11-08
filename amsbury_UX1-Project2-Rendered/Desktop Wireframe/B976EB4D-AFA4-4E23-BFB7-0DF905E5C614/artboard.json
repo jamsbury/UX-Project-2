@@ -25,13 +25,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6C6B5EE3-26F5-4C30-BBA3-687024B715A7",
-    "height": 6169,
+    "height": 6215,
     "width": 1440,
     "x": 192,
     "y": -375
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -329,6 +329,10 @@
     {
       "class": "symbolInstance",
       "id": "6DB01285-14C1-4A14-8157-0FB426DC9FBE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B196BF0-4C04-43FA-9A7A-2CF1BE1C52D5"
     }
   ],
   "layout": {

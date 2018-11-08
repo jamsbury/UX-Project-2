@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5BC61D1D-35CF-4CB4-8BD0-06843C726495",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40F6D687-4CBA-4F02-912D-9C6F54EFEFA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0E9D0BE-EE16-4FB2-A409-67F966B28A1A",
+    "height": 235,
+    "width": 389,
+    "x": 321,
+    "y": 281
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0224F219-9162-445B-AEFF-C9948669A9F5"
+    },
+    {
+      "class": "text",
+      "id": "53EF8301-7AB1-4D82-86E7-FF2373A2D3E5"
+    }
+  ],
+  "name": "molecule / description block copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "614184A8-BBF7-4A8F-8E3F-656B340987C2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
