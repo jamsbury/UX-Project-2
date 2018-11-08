@@ -31,7 +31,7 @@
     "y": 2300
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -78,7 +78,6 @@
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 61.66666666666666,
-    "do_objectID": "7A78FA39-733A-4678-A80C-4E28AE05735E",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,

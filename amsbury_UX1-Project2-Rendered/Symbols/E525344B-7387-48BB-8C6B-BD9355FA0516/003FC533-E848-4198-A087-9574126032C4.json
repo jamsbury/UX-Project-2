@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "FranklinGothic-Book",
+              "name": "Helvetica",
               "size": 16
             }
           },
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 115,
+        "length": 132,
         "location": 0
       }
     ],
-    "string": "Submissions are now open for Spokane’s first winter “Brrrzaar” event. Call if you have cool stuff you want to sell."
+    "string": "This will be a brief summary/ description of the article so that the user can read a bit about it before they open the full article."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 28,
     "y": 357
   },
-  "glyphBounds": "{{0, 4}, {239, 66}}",
+  "glyphBounds": "{{0, 3}, {248, 73}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -92,7 +92,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "FranklinGothic-Book",
+            "name": "Helvetica",
             "size": 16
           }
         },
