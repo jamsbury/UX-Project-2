@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "93509E62-2DBF-41E0-9D3A-AD5A3E511832",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 4893,
+  "clippingMaskMode": 0,
+  "do_objectID": "22EEA5BA-C48C-45D2-BC57-61A7CFD77BEF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5EA15C8F-A3C0-4D59-844B-8D791E31AD56",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C69C2D4-3E05-4D76-9416-F160DCD751BF",
+    "height": 121,
+    "width": 370,
+    "x": 2798,
+    "y": 1607
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "32305A60-AE9B-4BFD-ADC0-D0A8F94B3C1F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A142ADAC-34CF-43AF-A871-EA56E2195AAD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98744274-DCD4-40CC-9F50-5D86696C00A7"
+    },
+    {
+      "class": "group",
+      "id": "160E65E1-BC3D-49EB-A109-5EEB923ECF54"
+    },
+    {
+      "class": "text",
+      "id": "2C6246F3-C910-4C9E-B5F8-C5153569D3A3"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "0D0F0615-0466-411C-A9DB-50FE2911B001",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": -0.5,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
+  "name": "organism / degree info mobile",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E5B29F6B-344C-47F4-B24F-031EE55AECE6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8FE9F03-DCFA-4AAA-832D-919CAB1047C7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "40BC2E9C-F4DC-4170-969D-5E85AEB6DBD6",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EFB67476-9C38-411D-A71D-0635163C6757",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 159,
+    "width": 370,
+    "x": 0,
+    "y": 1432
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "78077BD6-2E33-434A-90DF-FE463E9C98F0"
+    },
+    {
+      "class": "text",
+      "id": "3204067D-4C28-48FE-9626-137793B01CCE"
+    },
+    {
+      "class": "rectangle",
+      "id": "1E813ED1-15B7-4BB5-816C-B8F83E0D7813"
+    },
+    {
+      "class": "shapePath",
+      "id": "78A5FD53-2B09-4E9A-A4A3-0B3E6A1B1B34"
+    }
+  ],
+  "name": "organism / course info block mobile",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F42DCA5F-2844-4A53-A81D-57A3CC62F0F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9E39C57-D134-40EA-8F1A-2B5C30DCCBDF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3037DD78-3740-4643-8EC9-05BBDBF37B49",
+    "height": 256,
+    "width": 183,
+    "x": 189,
+    "y": 5355
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "387C34DA-3E94-491D-8093-32DA1CB128F2"
+    },
+    {
+      "class": "group",
+      "id": "9C338100-78F2-4EB1-9E21-E9663DA8585C"
+    },
+    {
+      "class": "group",
+      "id": "763417F4-60B8-4B16-A5F2-56A61415AD2A"
+    },
+    {
+      "class": "group",
+      "id": "5440B1EE-DC60-44A9-BD17-A69576FB2C44"
+    },
+    {
+      "class": "group",
+      "id": "6F9410D2-D153-4D8E-BB9F-CE68FFE94F49"
+    },
+    {
+      "class": "group",
+      "id": "98E74494-6CF9-4D15-A2AD-F07119A9AA04"
+    },
+    {
+      "class": "group",
+      "id": "CC006AF6-62BA-4B2F-B7AF-ED79E173F441"
+    },
+    {
+      "class": "text",
+      "id": "032B2A67-E3DF-4DAB-BFA7-FB1AC607F25A"
+    }
+  ],
+  "name": "ginelle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6D6D19B1-9E37-45F4-8E80-08DA6E923ADE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.828496042216359,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "93A94A0A-05A2-4DA3-875B-0CE070EBC8DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -18,10 +18,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "8E2DBC38-EB99-40AA-98E8-1CD411DFC644",
-    "height": 25,
-    "width": 51,
-    "x": 303,
-    "y": 1909
+    "height": 13,
+    "width": 27,
+    "x": 247,
+    "y": 1773
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -72,6 +72,15 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.323741007194245,
+      "saturation": 1,
+      "type": 0
+    },
     "borders": [
       {
         "_class": "border",
@@ -85,7 +94,7 @@
         "fillType": 0,
         "isEnabled": true,
         "position": 0,
-        "thickness": 14
+        "thickness": 7.453237410071942
       }
     ],
     "do_objectID": "71C7FD82-1B84-4849-ABB7-B26593240AA7",

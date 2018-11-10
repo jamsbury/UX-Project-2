@@ -1,0 +1,98 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D2AA0DBB-C3F0-49D5-B48A-B6B7FA358D3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D48BDEE8-2819-4FAD-B693-70E4ABF111BB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8844AA9-1D1F-465C-A669-3E5569EB4B90",
+    "height": 9.582733812949641,
+    "width": 9.582733812949641,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5D9C83F7-DD04-4BF6-A9FC-4EB2C10BA570"
+    },
+    {
+      "class": "shapePath",
+      "id": "B286AAAF-1095-4F99-BA1D-F6041BD2CC37"
+    },
+    {
+      "class": "shapePath",
+      "id": "C74BA855-F7F4-4707-9CCE-22A92823F14E"
+    },
+    {
+      "class": "shapePath",
+      "id": "30E59419-12C8-4013-A267-8F78D720E6B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "0AF61C4A-9D58-4220-B0D5-29F13EBA795E"
+    }
+  ],
+  "name": "Fill 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6C518BD7-B466-451A-BA92-7882C427A8F6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.323741007194245,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "569A2537-18DA-4A2F-B269-47F7E2946B6E",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

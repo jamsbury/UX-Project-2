@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "582A0C2B-158F-43A1-A91D-8805FB7BFDCD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "67759809-F0E0-49C7-9303-15C629FD07A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "84AC0F82-DD85-4BF6-889F-EAF9F7FCBCF6",
+    "height": 256,
+    "width": 183,
+    "x": 190,
+    "y": 4783
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CBBC8245-63A6-4040-802B-732E6011CEF2"
+    },
+    {
+      "class": "group",
+      "id": "980CF6FC-BF6A-472A-948E-FFA975F38764"
+    },
+    {
+      "class": "group",
+      "id": "35A9DCAD-FFC7-4AD3-A30E-D593D4A5946D"
+    },
+    {
+      "class": "group",
+      "id": "3784706F-8484-40FD-B684-CE87DA955D79"
+    },
+    {
+      "class": "group",
+      "id": "8E12CB9C-248E-41CA-85E8-068BCBF9145C"
+    },
+    {
+      "class": "group",
+      "id": "2E0FEBA0-40DE-4486-81BC-F845FD6E374A"
+    },
+    {
+      "class": "group",
+      "id": "A761AD6F-E398-47BB-8E02-A2EBA65FAF4A"
+    },
+    {
+      "class": "text",
+      "id": "8E5C41B1-2493-4303-8054-24E8A129366F"
+    }
+  ],
+  "name": "mindy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "EF66E40A-0E4A-4092-8FCA-6DC7747977FE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.828496042216359,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "4801AE4D-F651-4CCC-9F70-5C8F0F692580",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
