@@ -1,0 +1,107 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Perpetua-Bold",
+              "size": 38
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 2
+          }
+        },
+        "length": 11,
+        "location": 0
+      }
+    ],
+    "string": "Course List"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A76AE817-886A-444D-9257-5780FEB0D16B",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EABD37BA-38E1-4792-A401-B71E0E527B35",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "05E9F7A2-190C-4530-A864-8B53F978C504",
+    "height": 41,
+    "width": 370,
+    "x": 2,
+    "y": 379
+  },
+  "glyphBounds": "{{97, 7}, {178, 25}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Course List",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "F003C2B3-58DC-4BB3-A93B-BA0487832E76",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B715D918-F810-4B14-AC56-932278FA4B8D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Perpetua-Bold",
+            "size": 38
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 2
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 2
+}
