@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4A30E885-D354-4A3F-94FD-FBD68616AF76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40EDFBD9-87EE-4E5E-ABB5-832FFC4185FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CA7239C9-D34C-4442-8E74-9FD6315CC1DC",
+    "height": 256,
+    "width": 183,
+    "x": 190,
+    "y": 5460
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5BDB36F2-9866-4918-BDA7-DB6FF9AA62A5"
+    },
+    {
+      "class": "group",
+      "id": "B1DADC3D-2F9D-4285-B4F5-21D0E1CC0589"
+    },
+    {
+      "class": "group",
+      "id": "45E9FE4F-FD7D-4A98-8E70-608D2FF731AE"
+    },
+    {
+      "class": "group",
+      "id": "32743EB1-735C-419B-890C-62BAD41595BF"
+    },
+    {
+      "class": "group",
+      "id": "28B768DD-BEE9-4EF9-B185-EE0ACBE501B6"
+    },
+    {
+      "class": "group",
+      "id": "63E7399D-B770-4759-99C5-3E02BB0DA107"
+    },
+    {
+      "class": "group",
+      "id": "C07142A7-4502-4E4E-9A8D-118AA796B193"
+    },
+    {
+      "class": "text",
+      "id": "BAC50ADA-0FA5-4B7E-B4B7-F127B8A3361E"
+    }
+  ],
+  "name": "mindy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "B62C36E6-ED6F-45D0-AEE1-5DA92DF2288D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.828496042216359,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "18390E90-AD19-424E-9FCD-5000F6089A22",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

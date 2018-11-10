@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "19A32A71-7E60-473F-88C3-735E13B739BB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "94238B45-19D3-4337-952A-5B16947AA09C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D266D4FD-F907-40EE-9DB5-4DACBD22AF60",
+    "height": 256,
+    "width": 183,
+    "x": 189,
+    "y": 6032
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2B17864A-6FC2-49A0-88EA-3B6FA658513C"
+    },
+    {
+      "class": "group",
+      "id": "82634D1E-D15A-4DC2-A3E0-E41333532A24"
+    },
+    {
+      "class": "group",
+      "id": "B21ADF92-A502-4113-AB29-FA04F5270490"
+    },
+    {
+      "class": "group",
+      "id": "E59E6AE6-F210-4F46-82BF-593712A6FE52"
+    },
+    {
+      "class": "group",
+      "id": "757404EB-C134-4ABC-924F-C8C2CEFDD29F"
+    },
+    {
+      "class": "group",
+      "id": "AF9C35EA-931F-4C38-8AA6-CEA7417E097D"
+    },
+    {
+      "class": "group",
+      "id": "6C0C32B3-91A9-4976-91AD-BEF93AE4BA78"
+    },
+    {
+      "class": "text",
+      "id": "5240CC03-BB90-4473-A517-419F705632F0"
+    }
+  ],
+  "name": "ginelle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0F5162E2-AA2A-4C70-8F89-9555EF176F84",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.828496042216359,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "73F0BA73-7835-44A0-9C14-DB54F079938C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

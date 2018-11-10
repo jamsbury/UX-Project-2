@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B8EC66E6-DB40-4384-B092-67477B422A4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA1DA564-C6BA-44F0-B2B7-BB7402D59763",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9066B4D-DE0D-4CFC-9F16-890FC9688EBE",
+    "height": 256,
+    "width": 183,
+    "x": 189,
+    "y": 6602
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "53D2B4E9-4291-470E-A56C-DE6E46C5B661"
+    },
+    {
+      "class": "group",
+      "id": "EBB97BC4-E140-4ED3-BCA2-07E835EC7334"
+    },
+    {
+      "class": "group",
+      "id": "C213F1B7-CA46-4828-8338-81A7A73B7920"
+    },
+    {
+      "class": "group",
+      "id": "D2CFE9E1-0909-4D3F-888B-4D843D7A370A"
+    },
+    {
+      "class": "group",
+      "id": "BAC94754-51F9-48FC-9E58-1563F971DF11"
+    },
+    {
+      "class": "group",
+      "id": "469DEB6D-2BBD-4529-8B18-96806C1D4170"
+    },
+    {
+      "class": "group",
+      "id": "AED515DD-77D8-42A3-8C95-1D8AD4D53FED"
+    },
+    {
+      "class": "text",
+      "id": "D4806BB5-4B08-4F01-BDFB-D4C242A213D2"
+    }
+  ],
+  "name": "colin",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2FEBFF0C-43B8-48A8-A5F6-FDBE935715C6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.828496042216359,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "16704011-F91E-4117-A7D3-B6E490A13CD4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

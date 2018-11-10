@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "14979F7E-4317-4414-9540-CC57E2B94048",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5F84825-DE8D-4263-AF6D-5528E827DD62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7BD8EE4A-128A-45B2-BF1B-A084769F43A3",
+    "height": 256,
+    "width": 183,
+    "x": 2,
+    "y": 4848
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "F2D1FB5A-3F03-4E7C-9CCE-ADEE11067F52"
+    },
+    {
+      "class": "group",
+      "id": "E51CA359-956B-4F80-B939-F8ACE7DC1962"
+    }
+  ],
+  "name": "tyreil",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "867D1279-3E9B-4DF2-867D-50C79EDC0314",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.828496042216359,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "726A83C8-BE4D-4132-BE68-3DEAB2E59E55",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

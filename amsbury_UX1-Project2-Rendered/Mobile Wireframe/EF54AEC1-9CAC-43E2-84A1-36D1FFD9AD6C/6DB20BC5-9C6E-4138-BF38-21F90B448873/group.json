@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6DB20BC5-9C6E-4138-BF38-21F90B448873",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E91BA56-4901-4826-A44F-8801848B87D0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76A9F98C-0468-462E-BCEA-29DCFFE80D34",
+    "height": 562,
+    "width": 642,
+    "x": -199,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DB583453-75A9-4EDD-8721-5268BD7D7F72"
+    },
+    {
+      "class": "group",
+      "id": "D931714F-05F7-4E66-A86A-2F07B3208743"
+    },
+    {
+      "class": "group",
+      "id": "44BCF3E2-156D-4DA2-93E4-291E53DEFE2F"
+    }
+  ],
+  "name": "banner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0012963-A967-4DFE-BAB6-298F7109A3A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
