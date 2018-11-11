@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6C7528B3-8948-4697-8186-9AFBB7B769A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D2FE7E90-F21A-4088-A02A-C7A5051104EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BEFD54DB-CF8E-4641-8D12-6A7CCC22E2D5",
+    "height": 42,
+    "width": 182,
+    "x": 0,
+    "y": 276
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "06B3491E-99CB-4301-95B5-41A8CB8E8C88"
+    },
+    {
+      "class": "text",
+      "id": "F6942E69-5EDB-4C03-B362-627E34E9B250"
+    }
+  ],
+  "name": "project text detail copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7DBC3A02-61EB-4FC0-892F-AD0ED214A6BA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.845181674565561,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "2C511FA6-AA46-4FC2-BCAE-8233A4352C27",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
