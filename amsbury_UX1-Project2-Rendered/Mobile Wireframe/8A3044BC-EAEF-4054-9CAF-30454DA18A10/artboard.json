@@ -22,9 +22,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3472,
+    "height": 3678,
     "width": 375,
-    "x": 1856,
+    "x": 935,
     "y": -2801
   },
   "hasBackgroundColor": true,
@@ -44,83 +44,111 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "group",
-      "id": "86B21157-3D2B-43C5-96A5-CF48CC1FC436"
-    },
-    {
-      "class": "text",
-      "id": "916D4694-814A-4B92-A7CC-9A8109987BF4"
-    },
-    {
-      "class": "rectangle",
-      "id": "C1CE30E7-04C9-4D55-8A07-B8BF6112F79B"
-    },
-    {
-      "class": "rectangle",
-      "id": "A9797B62-3F60-4AB4-AC05-F2AB37BDFE48"
-    },
-    {
-      "class": "text",
-      "id": "8E9397B0-DBA8-44AA-AF89-B4EC347FE555"
-    },
-    {
-      "class": "text",
-      "id": "E1B13501-9B6E-4331-AC93-E045D071FF52"
-    },
-    {
-      "class": "rectangle",
-      "id": "B1ECF681-4168-4D08-9CE3-83A4C84ABF55"
-    },
-    {
-      "class": "text",
-      "id": "D3AFBF7B-5DC0-48B2-9013-735BA89DDC61"
-    },
-    {
-      "class": "text",
-      "id": "21C51487-C317-4DC6-BD32-637E12D4F5F0"
-    },
-    {
-      "class": "text",
-      "id": "087CC2E7-3D46-4C67-BCB6-64398CE25A27"
-    },
-    {
-      "class": "rectangle",
-      "id": "25B718BD-FBA9-47E1-BEA2-8D434F591065"
-    },
-    {
-      "class": "rectangle",
-      "id": "F2DFD9BA-B8D3-4D35-997E-C72BA5E5B183"
-    },
-    {
-      "class": "rectangle",
-      "id": "3D28D44A-DB6E-42DA-9521-2E9ACD172C1D"
-    },
-    {
-      "class": "rectangle",
-      "id": "94874D79-C81F-4704-A36F-8C0B60911E75"
-    },
-    {
-      "class": "rectangle",
-      "id": "B0069F87-7BDA-4D68-A738-AFC2DD573CF5"
-    },
-    {
-      "class": "rectangle",
-      "id": "514056AF-FFF6-428A-A5C2-EDBEBC6F30A8"
-    },
-    {
-      "class": "text",
-      "id": "07264202-EC93-4002-BD37-2DD61B0A70E7"
-    },
-    {
-      "class": "text",
-      "id": "0F8D2078-360C-4C72-A759-D6FCCA6961F0"
-    },
     {
       "class": "symbolInstance",
       "id": "616062B7-27AA-46CB-AC8B-B9F8DE71D677"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B063B8D3-CF96-42FA-8DEF-FF46E3E3CBAE"
+    },
+    {
+      "class": "group",
+      "id": "8CBEDC71-113B-470C-891F-4386B37FCF4E"
+    },
+    {
+      "class": "rectangle",
+      "id": "CA6113D7-0087-454E-9FEE-24F47E0910DF"
+    },
+    {
+      "class": "text",
+      "id": "73AABD8D-59C0-4CE2-A131-6378D9BBC52E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6384A228-F9EF-4740-ACC3-D4E43AB0B3AB"
+    },
+    {
+      "class": "text",
+      "id": "14887002-1EC2-45EB-B8A7-F7774BAC6268"
+    },
+    {
+      "class": "group",
+      "id": "AF324CE5-CA1B-41FA-BE2F-6177800583D9"
+    },
+    {
+      "class": "group",
+      "id": "90EAB138-1EA3-4AA1-802B-166CD5A478D6"
+    },
+    {
+      "class": "group",
+      "id": "8C45376D-C55A-4F25-8A2B-CD1EB603DB4B"
+    },
+    {
+      "class": "group",
+      "id": "4A0FE533-75CC-4AA2-B430-69661C086CE4"
+    },
+    {
+      "class": "group",
+      "id": "5F15B2A1-340A-4881-A465-E8F14C349E58"
+    },
+    {
+      "class": "group",
+      "id": "9F9AAE12-DCCE-4C2B-859E-4E8FA486D964"
+    },
+    {
+      "class": "group",
+      "id": "CCEA3608-C01D-4F82-9753-40283FCB622F"
+    },
+    {
+      "class": "group",
+      "id": "D3FE3F54-C472-49B8-AF8E-45B0F80F7E54"
+    },
+    {
+      "class": "text",
+      "id": "D5253AC1-4570-4341-82A9-E1DCC931D1C4"
+    },
+    {
+      "class": "text",
+      "id": "018DE13B-8193-473C-8826-08F6ADAA483D"
+    },
+    {
+      "class": "group",
+      "id": "BDD0F379-9E2B-4BDA-BAA9-010BC7114C67"
+    },
+    {
+      "class": "group",
+      "id": "ADE331C1-756E-4A20-851B-B7007E5902E1"
+    },
+    {
+      "class": "group",
+      "id": "58D2D5CC-E2FA-4979-B8AA-CF45BC766988"
+    },
+    {
+      "class": "group",
+      "id": "A08BCD1A-6389-4931-A24C-CC21DA01A28E"
+    },
+    {
+      "class": "group",
+      "id": "2B081611-FED8-4F2B-AD48-96210CC3A4F8"
+    },
+    {
+      "class": "group",
+      "id": "9431BCC3-6E16-422B-9B98-4B795639C95D"
+    },
+    {
+      "class": "rectangle",
+      "id": "CE7199FF-EE71-480E-94D6-C6B118099DBF"
+    },
+    {
+      "class": "text",
+      "id": "991DC6E6-90BC-4323-B354-5F15F9030B32"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9378B8BC-B839-4329-940C-DDBFF8EB82B1"
     }
   ],
   "layout": {

@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "A2875C73-8E84-4BF0-B946-0BB1B55AC6BC",
-    "height": 2693,
+    "height": 2691,
     "width": 1440,
-    "x": -2337,
-    "y": -776
+    "x": -2441,
+    "y": -1195
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -293,6 +293,14 @@
     {
       "class": "group",
       "id": "684F1079-4429-41D3-B775-43788434B01A"
+    },
+    {
+      "class": "group",
+      "id": "390EB09F-ACAF-4CF5-AB63-DF2645CF0A4E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3B29C40-D41D-463E-8387-C09D79D8B45D"
     }
   ],
   "layout": {
