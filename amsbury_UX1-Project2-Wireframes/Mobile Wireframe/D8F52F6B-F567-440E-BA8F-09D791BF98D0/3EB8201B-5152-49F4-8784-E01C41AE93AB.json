@@ -123,7 +123,7 @@
   },
   "userInfo": {
     "com.invision.prototype": {
-      "backgroundOpacity": 0,
+      "backgroundOpacity": 10,
       "closeOnClickOutside": 1,
       "componentType": "SRLink",
       "fixOverlayPosition": 1,
@@ -132,8 +132,8 @@
       "maintainScrollPositionAfterGesture": 0,
       "maintainScrollPositionAfterRedirect": 0,
       "openURLInNewWindow": 0,
-      "overlayPosition": 2,
-      "overlayTransition": 0,
+      "overlayPosition": 4,
+      "overlayTransition": 4,
       "redirectAfter": 0,
       "reverseTransitionOnClose": 1,
       "scrollToPosition": 0,
