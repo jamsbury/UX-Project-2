@@ -31,7 +31,7 @@
     "y": -2801
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -51,8 +51,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "rectangle",
+      "id": "5098FFDE-5064-467B-A6DC-EA2A45AF05DA"
+    },
+    {
+      "class": "bitmap",
+      "id": "2BBFC21E-CBA3-4654-9210-E6F07C23CB62"
+    },
+    {
       "class": "symbolInstance",
-      "id": "279EA075-F140-4E03-A924-AEA78A560EF9"
+      "id": "FA31EF78-B8D3-4170-9594-D9D0B9499ED6"
     },
     {
       "class": "group",

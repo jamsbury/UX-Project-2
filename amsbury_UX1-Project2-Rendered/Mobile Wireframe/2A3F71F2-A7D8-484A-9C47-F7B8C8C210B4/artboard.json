@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
@@ -63,8 +63,16 @@
       "id": "22C72DE7-A708-4FC5-8185-085A1D8E2F06"
     },
     {
+      "class": "rectangle",
+      "id": "EB8BF609-631B-40C7-92DE-09D5F4B6C1CD"
+    },
+    {
+      "class": "bitmap",
+      "id": "E54AB651-E07B-4ACB-9DFF-18AE7B1D5FEC"
+    },
+    {
       "class": "symbolInstance",
-      "id": "89BB4B8A-2571-4914-9F5A-466D0654B96A"
+      "id": "3698544D-4331-41D4-B674-262E17ED8ED2"
     },
     {
       "class": "text",
@@ -269,6 +277,10 @@
     {
       "class": "symbolInstance",
       "id": "32257DBC-76E0-4CA9-A0DC-426BE1021CCC"
+    },
+    {
+      "class": "group",
+      "id": "CF4AADBB-C94F-41DF-93CA-B90A2CEA10AD"
     }
   ],
   "layout": {
