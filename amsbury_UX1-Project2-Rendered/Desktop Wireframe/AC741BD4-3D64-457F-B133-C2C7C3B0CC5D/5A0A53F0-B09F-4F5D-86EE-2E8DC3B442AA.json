@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8615C0D3-EBCF-4CDD-87A1-8BDBE4CCC4D3",
+  "do_objectID": "5A0A53F0-B09F-4F5D-86EE-2E8DC3B442AA",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0F37DD21-FAB5-4A83-872F-DBCBB3C317B6",
+    "do_objectID": "18F785CB-0832-4388-92B6-FB2E1DF2FC42",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,38 +16,44 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "42800667-09D5-4B43-9EB2-DB6EB2F25414",
-    "height": 81,
-    "width": 50,
-    "x": 256,
-    "y": 80
+    "do_objectID": "674B74DA-9B98-4A42-9C69-0ECD92E3C4F9",
+    "height": 59,
+    "width": 189,
+    "x": 240,
+    "y": 1558
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
-  "isFixedToViewport": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "atom / arrow copy",
+  "name": "atom / button copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD9A277F-CBC4-4807-B58A-FEA6D49708F7",
+      "overrideName": "FD0A8A90-2A25-45A1-A15B-C5D70570B46C_stringValue",
+      "value": "View Full"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -90,
+  "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "0F35CC5A-9A1A-4B44-B270-80FD181BF371",
+    "do_objectID": "4D614AD8-F69B-4AA3-A328-79DCC3C75773",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "92F5B9FF-6E4E-4E32-A122-3CE267983114",
+  "symbolID": "395E5532-483F-4B8E-96E7-6A0C8B11DB61",
   "userInfo": {
     "com.invision.prototype": {
       "backgroundOpacity": 0,
@@ -66,7 +72,7 @@
       "scrollToPosition": 0,
       "smoothScrolling": 0,
       "stayOnTargetScreen": 0,
-      "targetArtboardID": "B976EB4D-AFA4-4E23-BFB7-0DF905E5C614",
+      "targetArtboardID": "75A52FD0-3FC6-4300-A822-D7980A2CCB4F",
       "transition": 0
     }
   },
