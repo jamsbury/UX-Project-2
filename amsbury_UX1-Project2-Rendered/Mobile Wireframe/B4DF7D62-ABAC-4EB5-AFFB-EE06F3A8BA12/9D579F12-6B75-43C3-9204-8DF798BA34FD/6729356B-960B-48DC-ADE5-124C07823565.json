@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E87BF099-2D26-483E-A938-CBDC710B172C",
+  "do_objectID": "6729356B-960B-48DC-ADE5-124C07823565",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "4BB4059C-9D21-4BEC-8F64-4C4D9151D684",
+    "do_objectID": "3B3BE165-722E-4AD0-8EB4-12B57DDFD267",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B5479997-3579-47EB-88B9-10F43619438B",
-    "height": 273,
-    "width": 197,
-    "x": 0,
-    "y": 0
+    "do_objectID": "199C31B5-EF5F-4B0A-9BB7-2A2073910FC7",
+    "height": 8,
+    "width": 165,
+    "x": 333.5,
+    "y": 0.4999999999995453
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Rectangle Copy 2",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -90,17 +90,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
         "isEnabled": false,
         "position": 1,
-        "thickness": 2
+        "thickness": 1
       }
     ],
-    "do_objectID": "B86497F9-FCEC-46DA-8C73-9A2946022BD4",
+    "do_objectID": "067EEB7C-78E6-49B3-9B6D-9EF59E0AC740",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.7382015306122449,
-          "green": 0.7382015306122449,
-          "red": 0.7382015306122449
+          "blue": 0.8392156862745096,
+          "green": 0.1490196078431373,
+          "red": 0.9803921568627451
         },
         "fillType": 0,
         "isEnabled": true,

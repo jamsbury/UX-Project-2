@@ -16,15 +16,14 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Perpetua-Bold",
-              "size": 32
+              "name": "Helvetica-Bold",
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "alignment": 0
+          }
         },
         "length": 8,
         "location": 0
@@ -35,11 +34,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "15811D09-C8E9-4F71-B721-0D07FC5FB1EF",
+  "do_objectID": "E34C0A3A-103E-404E-9082-763A4C4C8899",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "66AAEC76-F4AD-47D5-9236-3C3DF0E2F1F3",
+    "do_objectID": "05835863-1FE2-4D8F-95E0-5459B7972FCB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,15 +49,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "7AFD9B31-3BD6-491A-9057-697FECED907F",
-    "height": 36,
-    "width": 140,
-    "x": 490,
-    "y": 9
+    "do_objectID": "998FC331-0F87-4834-9F33-6A423415A2B7",
+    "height": 20,
+    "width": 215,
+    "x": 158,
+    "y": 173
   },
-  "glyphBounds": "{{6, 5}, {129, 22}}",
+  "glyphBounds": "{{0, 3}, {69, 12}}",
   "hasClippingMask": false,
-  "isFixedToViewport": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -67,20 +66,20 @@
   "lineSpacingBehaviour": 2,
   "name": "Showcase",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "40B7DEF7-FF91-4BF6-A190-F5C733E1F20E",
+  "sharedStyleID": "AA270D07-562B-4B97-A41B-F6E05F724498",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "EF72F10E-0A07-46B5-9BCB-CF7CFA02A8F7",
+    "do_objectID": "513A5361-7301-4A9E-B30B-06E21A0A66CA",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "58618444-5FF9-41E9-A618-A1440B2E7614",
+      "do_objectID": "9373EBD1-9C89-4AF6-A152-F32F79F16DF0",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -92,19 +91,18 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Perpetua-Bold",
-            "size": 32
+            "name": "Helvetica-Bold",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "alignment": 0
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 2
 }

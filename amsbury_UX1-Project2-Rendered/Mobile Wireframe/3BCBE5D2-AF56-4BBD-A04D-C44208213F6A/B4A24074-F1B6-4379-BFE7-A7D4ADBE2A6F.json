@@ -9,37 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.7725490196078432,
+            "green": 0.7725490196078432,
+            "red": 0.7725490196078432
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Perpetua-Bold",
-              "size": 32
+              "name": "Helvetica-Bold",
+              "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "alignment": 0
+          }
         },
-        "length": 15,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "News and Events"
+    "string": "General Design"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "72AF0B8C-6330-49DE-8404-9F8F739BC8F4",
+  "do_objectID": "B4A24074-F1B6-4379-BFE7-A7D4ADBE2A6F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A87C3116-EA2D-4BE8-95D2-58DC55AED749",
+    "do_objectID": "BDD8431B-035C-46E6-8D8A-FD2505EB6F76",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F28C729C-8A08-4EF9-90A6-15E3E6DF2574",
-    "height": 36,
-    "width": 225,
-    "x": -14,
-    "y": 15
+    "do_objectID": "20BA3219-6605-46BB-BF31-3E5A513DDD27",
+    "height": 20,
+    "width": 215,
+    "x": 158,
+    "y": 282
   },
-  "glyphBounds": "{{0, 5}, {224, 22}}",
+  "glyphBounds": "{{0, 3}, {102, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,67 +64,45 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "News and Events",
+  "name": "General Design",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "40B7DEF7-FF91-4BF6-A190-F5C733E1F20E",
+  "sharedStyleID": "AA270D07-562B-4B97-A41B-F6E05F724498",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "FFBAEF4B-1A8B-446B-A4CF-94A0C9E9035C",
+    "do_objectID": "118D6FF8-D261-4F91-A122-80BEDEB32E68",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "D22ABA2E-D07C-45C8-AAE9-93072B6ADCBA",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.7725490196078432,
+          "green": 0.7725490196078432,
+          "red": 0.7725490196078432
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Perpetua-Bold",
-            "size": 32
+            "name": "Helvetica-Bold",
+            "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "alignment": 0
+        }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
-  "userInfo": {
-    "com.invision.prototype": {
-      "backgroundOpacity": 0,
-      "closeOnClickOutside": 1,
-      "componentType": "SRLink",
-      "fixOverlayPosition": 1,
-      "gesture": 0,
-      "linkType": 0,
-      "maintainScrollPositionAfterGesture": 0,
-      "maintainScrollPositionAfterRedirect": 0,
-      "openURLInNewWindow": 0,
-      "overlayPosition": 0,
-      "overlayTransition": 0,
-      "redirectAfter": 0,
-      "reverseTransitionOnClose": 1,
-      "scrollToPosition": 0,
-      "smoothScrolling": 0,
-      "stayOnTargetScreen": 0,
-      "targetArtboardID": "8A3044BC-EAEF-4054-9CAF-30454DA18A10",
-      "transition": 0
-    }
-  }
+  "textBehaviour": 2
 }

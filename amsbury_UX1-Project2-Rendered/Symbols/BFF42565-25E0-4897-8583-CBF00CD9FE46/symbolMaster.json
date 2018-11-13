@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 2650,
+  "changeIdentifier": 2700,
   "clippingMaskMode": 0,
   "do_objectID": "BFF42565-25E0-4897-8583-CBF00CD9FE46",
   "exportOptions": {
@@ -67,18 +67,18 @@
   ],
   "layout": {
     "_class": "layoutGrid",
-    "columnWidth": 60,
+    "columnWidth": 26.25,
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
     "gutterHeight": 12,
-    "gutterWidth": 20,
+    "gutterWidth": 5,
     "guttersOutside": true,
-    "horizontalOffset": -292.5,
+    "horizontalOffset": 0,
     "isEnabled": true,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
-    "totalWidth": 960
+    "totalWidth": 375
   },
   "name": "organism / mobile nav",
   "nameIsFixed": true,
