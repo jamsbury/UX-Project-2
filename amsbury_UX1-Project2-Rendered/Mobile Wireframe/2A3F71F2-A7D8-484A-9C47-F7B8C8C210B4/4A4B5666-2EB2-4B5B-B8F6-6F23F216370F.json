@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "94874D79-C81F-4704-A36F-8C0B60911E75",
+  "do_objectID": "4A4B5666-2EB2-4B5B-B8F6-6F23F216370F",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "A904DA60-9E00-4261-96BF-F45E393D1F06",
+    "do_objectID": "32E32F73-D750-44EA-A16A-2BD30135CEE3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9B49D20D-B9EC-4420-B67F-75A4E710E689",
-    "height": 61,
-    "width": 368,
-    "x": 4,
-    "y": 1960
+    "do_objectID": "B46A05A0-323E-43C6-BFB2-B0081CCC7660",
+    "height": 24,
+    "width": 375,
+    "x": 0,
+    "y": -1
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy 10",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -90,17 +90,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
         "isEnabled": false,
         "position": 1,
-        "thickness": 2
+        "thickness": 1
       }
     ],
-    "do_objectID": "22A1F7D9-F37E-476A-BB92-1D10CE209FCE",
+    "do_objectID": "11C976A3-8C97-455C-9E03-2385A696E480",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5333333333333333,
-          "green": 0.5333333333333333,
-          "red": 0.5333333333333333
+          "blue": 0.1254901960784314,
+          "green": 0.1333333333333333,
+          "red": 0.1333333333333333
         },
         "fillType": 0,
         "isEnabled": true,

@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 8792,
+    "height": 8815,
     "width": 375,
     "x": 2388,
-    "y": -2801
+    "y": -2824
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -1949,6 +1949,10 @@
     {
       "class": "symbolInstance",
       "id": "4795035D-0E7B-4AFC-ABA5-594836B2B0EB"
+    },
+    {
+      "class": "rectangle",
+      "id": "E3C5CAC9-FE18-4941-ACB3-8C9338BEF913"
     }
   ],
   "layout": {

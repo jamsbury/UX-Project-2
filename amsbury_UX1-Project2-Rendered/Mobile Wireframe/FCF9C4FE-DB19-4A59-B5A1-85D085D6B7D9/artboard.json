@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "C30DFB23-170C-4DB1-A4DD-81266F244194",
-    "height": 986,
+    "height": 993.3653783696008,
     "width": 375,
     "x": 3813,
-    "y": -2801
+    "y": -2824
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -97,6 +97,10 @@
     {
       "class": "text",
       "id": "E3E759C2-D639-4342-AE8C-C2D1294A860C"
+    },
+    {
+      "class": "rectangle",
+      "id": "55EEBCBC-0304-405B-A6EB-CC45F718422C"
     }
   ],
   "layout": {

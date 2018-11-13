@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -129,10 +129,6 @@
     {
       "class": "symbolInstance",
       "id": "15EFC12D-6F9B-4B34-9315-D7C5DAEDFB82"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0ACC91F1-1516-4F0A-AF4A-7A1AC0C9D393"
     }
   ],
   "layout": {
@@ -145,7 +141,7 @@
     "gutterWidth": 20,
     "guttersOutside": false,
     "horizontalOffset": 32,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 5,
     "totalWidth": 960

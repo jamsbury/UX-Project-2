@@ -25,10 +25,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1B2FC2D0-DAE1-459D-8F70-FD25E0AAD7B6",
-    "height": 1054,
+    "height": 1077,
     "width": 375,
     "x": 1566,
-    "y": -2801
+    "y": -2824
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -77,6 +77,10 @@
     {
       "class": "symbolInstance",
       "id": "E655A507-DAE2-4CEC-9D5F-B453DEBCBA3E"
+    },
+    {
+      "class": "rectangle",
+      "id": "E3776C93-5FD1-4F5E-8932-896D6695312E"
     }
   ],
   "layout": {

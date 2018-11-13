@@ -22,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 7020,
+    "height": 7043,
     "width": 375,
     "x": -188,
-    "y": -2801
+    "y": -2824
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -281,6 +281,10 @@
     {
       "class": "group",
       "id": "CF4AADBB-C94F-41DF-93CA-B90A2CEA10AD"
+    },
+    {
+      "class": "rectangle",
+      "id": "4A4B5666-2EB2-4B5B-B8F6-6F23F216370F"
     }
   ],
   "layout": {
