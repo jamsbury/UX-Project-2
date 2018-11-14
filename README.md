@@ -4,7 +4,9 @@ View Medium article: https://medium.com/@justicedsn/ux1-p2-ewu-vcd-website-proto
 
 ### View Prototypes
 Desktop Hi-Fi: https://projects.invisionapp.com/d/main#/projects/prototypes/15962928
+
 Mobile Hi-Fi: https://projects.invisionapp.com/d/main#/projects/prototypes/15962933
 
 Desktop Lo-Fi: https://projects.invisionapp.com/d/main#/projects/prototypes/15768901
+
 Mobile Lo-Fi: https://projects.invisionapp.com/d/main#/projects/prototypes/15768900
