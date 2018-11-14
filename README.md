@@ -7,6 +7,8 @@ Desktop Hi-Fi: https://projects.invisionapp.com/d/main#/projects/prototypes/1596
 
 Mobile Hi-Fi: https://projects.invisionapp.com/d/main#/projects/prototypes/15962933
 
+---
+
 Desktop Lo-Fi: https://projects.invisionapp.com/d/main#/projects/prototypes/15768901
 
 Mobile Lo-Fi: https://projects.invisionapp.com/d/main#/projects/prototypes/15768900
