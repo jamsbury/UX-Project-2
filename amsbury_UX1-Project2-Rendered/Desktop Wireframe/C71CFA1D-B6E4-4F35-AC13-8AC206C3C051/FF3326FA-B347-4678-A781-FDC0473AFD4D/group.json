@@ -2,9 +2,10 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F8395F77-1839-429C-BA88-06398FC0A496",
+  "do_objectID": "FF3326FA-B347-4678-A781-FDC0473AFD4D",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "0C88B403-376E-4009-90B5-20BF91994615",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "4BA66DC7-2991-4D3C-9926-DAA1CF9E259F",
     "height": 136,
     "width": 797,
     "x": 321,
-    "y": 923
+    "y": 922
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,11 +33,11 @@
   "layers": [
     {
       "class": "text",
-      "id": "D0AAE41A-0BF4-4A53-9D4A-B6C944E1C536"
+      "id": "C39874D6-F5A0-4D69-A351-FCEDA0BF2F9A"
     },
     {
       "class": "text",
-      "id": "643938A0-8A11-4AD5-881D-594DF71EC1E8"
+      "id": "1CDA12C5-4198-41E3-9B4C-6F4C82BDA5D3"
     }
   ],
   "name": "text intro",
@@ -46,6 +48,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "3F34243E-4AFD-48BC-B546-56B2B660013C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

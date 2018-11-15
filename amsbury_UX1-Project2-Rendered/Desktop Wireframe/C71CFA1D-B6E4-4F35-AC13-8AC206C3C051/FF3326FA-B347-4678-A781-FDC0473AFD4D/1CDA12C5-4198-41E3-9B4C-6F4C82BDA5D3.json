@@ -17,28 +17,29 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Perpetua-Bold",
-              "size": 32
+              "size": 60
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 28,
         "location": 0
       }
     ],
-    "string": "What is…"
+    "string": "Visual Communication Design?"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D0AAE41A-0BF4-4A53-9D4A-B6C944E1C536",
+  "do_objectID": "1CDA12C5-4198-41E3-9B4C-6F4C82BDA5D3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "136A2836-3B2F-45C1-8655-20A14BD4D20B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 797,
-    "x": 0,
-    "y": 0
+    "do_objectID": "E3A7ED18-B4CE-4DD9-AA7B-BDC22791B717",
+    "height": 108,
+    "width": 795,
+    "x": 2,
+    "y": 28
   },
-  "glyphBounds": "{{0, 5}, {131, 22}}",
+  "glyphBounds": "{{3, 11}, {787, 57}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,21 +65,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "What is…",
+  "name": "Visual Communication",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "AA270D07-562B-4B97-A41B-F6E05F724498",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6F3C0FAE-77F1-4462-9E1F-8EC92D0DC07C",
+    "do_objectID": "E32D1D88-BD86-4D01-A711-1D6BA6BDB5FE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "86A76258-35AD-4D56-B1BE-EA93A4C86336",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -90,12 +92,12 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Perpetua-Bold",
-            "size": 32
+            "size": 60
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },

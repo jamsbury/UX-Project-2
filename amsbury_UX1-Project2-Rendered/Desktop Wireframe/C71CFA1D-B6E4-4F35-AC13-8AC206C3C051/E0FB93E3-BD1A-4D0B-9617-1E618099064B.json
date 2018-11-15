@@ -16,29 +16,30 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Perpetua-Bold",
-              "size": 60
+              "name": "FranklinGothic-Book",
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 28,
+        "length": 974,
         "location": 0
       }
     ],
-    "string": "Visual Communication Design?"
+    "string": "VCD is EWU's graphic design major and covers a wide variety of design styles and mediums, ranging from traditional print design to web and user experience design. A major in Visual Communication Design educates and prepares students to conceive and produce creative solutions to satisfy the visual communication needs of society. Graduates are prepared for careers in graphic design, web design, multimedia design, advertising, printing, publishing or related fields. Theory and practice are covered in a variety of contexts, including process and product, form and content, type and image and inter activity. Current technology and future trends are addressed in the context of industry practices. This major is combined with a related minor in another academic area to specialize in specific career preparation. EWU's design program teaches students typography, web page and digital media design, design history, and visual communication skills as well as visual literacy."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "643938A0-8A11-4AD5-881D-594DF71EC1E8",
+  "do_objectID": "E0FB93E3-BD1A-4D0B-9617-1E618099064B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "AB79908A-886E-4428-9549-D7A268BA3E2F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 108,
-    "width": 795,
-    "x": 2,
-    "y": 28
+    "do_objectID": "5360F153-04A1-4379-B2B7-0013D8A8887B",
+    "height": 203,
+    "width": 801,
+    "x": 321,
+    "y": 1058
   },
-  "glyphBounds": "{{3, 11}, {787, 57}}",
+  "glyphBounds": "{{0, 4}, {787, 158}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,19 +65,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Visual Communication",
+  "name": "VCD is EWU's graphic",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "FD6A3FAA-2439-4FC0-A771-7FAC12599414",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "CD1F1144-F957-4CB6-B087-8FC9B70F4F05",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "0D75A78F-D76D-4194-9227-43E187BACF4D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -87,13 +92,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Perpetua-Bold",
-            "size": 60
+            "name": "FranklinGothic-Book",
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },
